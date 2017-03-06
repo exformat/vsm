@@ -1,4 +1,3 @@
-package com.javarush.test.speedmeter;
 
 import java.util.Date;
 

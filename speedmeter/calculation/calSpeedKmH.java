@@ -1,4 +1,3 @@
-package com.javarush.test.speedmeter.calculation;
 
 /**
  * Created by exformat on 27.01.17.

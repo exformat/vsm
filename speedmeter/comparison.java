@@ -1,6 +1,5 @@
-package com.javarush.test.speedmeter;
 
-import com.javarush.test.speedmeter.calculation.formatDouble;
+import vsm.spaadmeter.calculation.formatDouble;
 
 import java.io.FileWriter;
 import java.io.IOException;

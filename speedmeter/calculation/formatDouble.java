@@ -1,4 +1,3 @@
-package com.javarush.test.speedmeter.calculation;
 
 import java.text.DecimalFormat;
 import java.util.Locale;

@@ -1,6 +1,5 @@
-package com.javarush.test.speedmeter.calculation;
 
-import com.javarush.test.speedmeter.simulate;
+import vsm.speedmeter.simulate;
 
 /**
  * Created by exformat on 27.01.17.
