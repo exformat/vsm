@@ -24,7 +24,7 @@ public class comparison
         String lastMax = readLastMaxSpeed();
 
         double kmH = Double.parseDouble(spd);
-        double LastMaxSpeed = Double.parseDouble(lastMax);
+        double LastMaxSpeed = Double.parseDouble(lastMax);//dfsdgsgf
 
         //запись новой максимальной скорости
         if (kmH>LastMaxSpeed)
