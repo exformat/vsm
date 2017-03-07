@@ -17,13 +17,13 @@ public class comparison
 
     public double comp() throws Exception
     {
-        formatDouble speed = new formatDouble();
+        formatDouble speed = new formatDouble();//yydthehethethethth
 
         String spd = speed.formatD();
         String lastMax = readLastMaxSpeed();
 
         double kmH = Double.parseDouble(spd);
-        double LastMaxSpeed = Double.parseDouble(lastMax);
+        double LastMaxSpeed = Double.parseDouble(lastMax);//dfsdgsgf
 
         //запись новой максимальной скорости
         if (kmH>LastMaxSpeed)
